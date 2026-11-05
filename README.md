@@ -119,6 +119,14 @@ Native iOS patient app for a clinic: doctor channeling and bookings, consultatio
   <img src="https://streak-stats.demolab.com?user=LKtheekshana&hide_border=true&theme=github-dark-blue" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LKtheekshana/LKtheekshana/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LKtheekshana/LKtheekshana/output/github-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/LKtheekshana/LKtheekshana/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
 ---
 
 <div align="center">
