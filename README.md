@@ -86,6 +86,19 @@ Native iOS patient app for a clinic: doctor channeling and bookings, consultatio
 </tr>
 </table>
 
+<details>
+<summary><b>More projects</b></summary>
+<br/>
+
+| Project | What it is | Tech |
+|---|---|---|
+| [ColorMatching](https://github.com/LKtheekshana/ColorMatching) | iOS colour-matching game with an online scoreboard | Swift, SwiftUI, Firebase |
+| [University Management System](https://github.com/LKtheekshana/University-Management-System) | Desktop app for managing university records | C#, .NET WinForms |
+| [Flight Booking System](https://github.com/LKtheekshana/Flight-Booking-System) | Desktop flight reservation system | Java, Swing |
+| [Quizzler](https://github.com/LKtheekshana/quizzler_flutter) · [Destini](https://github.com/LKtheekshana/destini_flutter) · [BMI Calculator](https://github.com/LKtheekshana/bmi_cal) | Mobile apps built while learning Flutter | Flutter, Dart |
+
+</details>
+
 ---
 
 ### 📊 GitHub stats
