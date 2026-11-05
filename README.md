@@ -3,12 +3,11 @@
 # Hi, I'm Theekshana 👋
 
 <a href="https://github.com/LKtheekshana">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&lines=Software+Engineering+undergraduate+%40+NIBM;Building+with+LLMs%2C+Computer+Vision+%26+APIs;Mobile+apps+in+Swift+and+Flutter;Open+to+software+engineering+internships" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&lines=Software+Engineering+undergraduate+%40+NIBM;Building+with+LLMs%2C+Computer+Vision+%26+APIs;Mobile+apps+in+Swift+and+Flutter;Always+learning%2C+always+shipping" alt="Typing intro" />
 </a>
 
 <p>
   <img src="https://img.shields.io/badge/Location-Sri%20Lanka-0d1117?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-2ea44f?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=LKtheekshana&style=flat-square&color=2f81f7&label=Profile+views" />
 </p>
 
@@ -21,7 +20,6 @@
 - 🎓 BSc (Hons) Computer Science with Software Engineering at **NIBM**, Sri Lanka (HND & Diploma in Software Engineering before that)
 - 🔬 Final-year research: **automating government citizen consultations with LLMs** — filtering, summarising and drafting from public submissions
 - 🧠 Interested in applied AI (NLP & computer vision), backend APIs and mobile apps
-- 🌱 Looking for a **software engineering internship** where I can ship real things and learn fast
 
 ---
 
@@ -29,7 +27,6 @@
 
 - 🏛️ Wrapping up my research on LLM-powered citizen consultation processing
 - 📚 Deepening my skills in NLP, retrieval and model evaluation
-- 💼 Applying for software engineering internships
 
 ---
 
@@ -131,7 +128,7 @@ Native iOS patient app for a clinic: doctor channeling and bookings, consultatio
 
 <div align="center">
 
-**💬 Let's connect** — I'm happy to talk about AI projects, internships or collaborations.
+**💬 Let's connect** — I'm happy to talk about AI projects, software or collaborations.
 
 <a href="https://www.linkedin.com/in/theekshana-premarathne"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:isuruace@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
