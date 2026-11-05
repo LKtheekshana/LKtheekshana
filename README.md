@@ -25,10 +25,18 @@
 
 ---
 
+### 🔭 Currently
+
+- 🏛️ Wrapping up my research on LLM-powered citizen consultation processing
+- 📚 Deepening my skills in NLP, retrieval and model evaluation
+- 💼 Applying for software engineering internships
+
+---
+
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,mongodb,swift,flutter,dart&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,js,java,cs,nodejs,express,mongodb,firebase,swift,flutter,dart&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,html,css,git,github,vscode,xcode&theme=dark" />
 </p>
 
